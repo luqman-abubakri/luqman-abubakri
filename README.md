@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luqman Abubakri</h1>
+<h1 align="center">Luqman Abubakri</h1>
 
 <h3 align="center">
 Full-Stack Developer
@@ -8,16 +8,22 @@ Full-Stack Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+and+Growing" />
 </p>
 
-
-
 ---
 
-# 🚀 About Me
+# ✨ About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+
+### Hi, I'm Luqman 👋
+
+I'm a Full-Stack Developer passionate about building modern and scalable web applications.
 
 - 🌱 Currently learning **Advanced Next.js and Backend Development**
-- 💻 Passionate about creating modern and scalable applications
 - ⚡ Focused on writing clean and maintainable code
-- 🚀 Constantly improving my skills and exploring new technologies
+- 🚀 Always exploring new technologies
+- 💡 Goal: Build products that make an impact
+
+<br clear="right"/>
 
 ---
 
@@ -43,37 +49,64 @@ Full-Stack Developer
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luqman-abubakri&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqman-abubakri&layout=compact&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=luqman-abubakri&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqman-abubakri&layout=compact&bg_color=000000&title_color=D4AF37&text_color=ffffff&border_color=D4AF37"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=luqman-abubakri&theme=onestar&no-frame=true&column=4&margin-w=15"/>
-</p>
-
----
-
-# 🎯 Current Goals
+# 🚀 Current Goals
 
 - ⚡ Master Advanced Next.js
 - 🚀 Build scalable full-stack applications
-- 📚 Continuously learn and improve
-- 💡 Create elegant and user-friendly experiences
+- 📚 Continuously improve
+- 💡 Create beautiful user experiences
 
 ---
 
-# ✨ Motto
+# 🌟 Featured Projects
 
-<div align="center">
+| Project | Description | Stack |
+|----------|-------------|-------|
+| **L'allure** | Luxury watch e-commerce platform | Next.js · TypeScript · MongoDB |
+| **Admin Dashboard** | Product and order management system | React · Node.js · Express |
+| **Portfolio Website** | Personal portfolio with premium UI | Next.js · Tailwind CSS |
 
-### "Building clean, modern and scalable applications."
+---
 
-</div>
+# 🏆 Achievements
+
+```txt
+✨ Clean Code
+🚀 Continuous Learning
+⚡ Full-Stack Development
+🎯 Problem Solving
+```
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luqman-abubakri&bg_color=000000&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+# 💭 Philosophy
+
+> "Building clean, modern and scalable applications."
+
+---
+
+<p align="center">
+⚜️ Thanks for visiting my profile ⚜️
+</p>
